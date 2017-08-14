@@ -143,8 +143,7 @@ body {
 .inner {
   display: inline;
   float: left;
-  width: 98.33333333333333%;
-  margin: 0 0.833333333333333%;
+  margin:50%;
 }
 .left,
 .alignleft {
